@@ -22,7 +22,7 @@
  <connection>scm:git:https://github.com/muqtadir/POCCloud.git</connection>
   <developerConnection>scm:git:git@github.com:muqtadir/POCCloud.git</developerConnection>
   <url>https://github.com/muqtadir/POCCloud/foreach-processing-and-choice-routing</url>
-  <tag>v1.0.0</tag>
+  <tag>v@{project.version}</tag>
  </scm>
         <build>
                 <!-- Use a newer version of the install plugin than what your Maven uses
