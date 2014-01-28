@@ -212,7 +212,7 @@
 					                <message>Maven artifacts for ${project.version}</message>  <!-- git commit message -->
 					                <noJekyll>true</noJekyll>                                  <!-- disable webpage processing -->
 					                <outputDirectory>${project.build.directory}/foreach-processing-and-choice-routing</outputDirectory> <!-- matches distribution management repository url above -->
-					                <branch>refs/heads/foreach-processing-and-choice-routing</branch>                       <!-- remote branch name -->
+					                <branch>refs/master/foreach-processing-and-choice-routing</branch>                       <!-- remote branch name -->
 					                <includes><include>**/*</include></includes>
 					                <repositoryName>POCCloud</repositoryName>      <!-- github repo name -->
 					                <repositoryOwner>muqtadir</repositoryOwner>    <!-- github username  -->
