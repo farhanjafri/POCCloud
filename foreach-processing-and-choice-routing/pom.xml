@@ -445,7 +445,7 @@
                 </repository>
     <repository>
         <id>import</id>
-        <url>https://raw.github.com/muqtadir/POCCloud/foreach-processing-and-choice-routing/</url>
+        <url>https://github.com/muqtadir/POCCloud/foreach-processing-and-choice-routing/</url>
         <releases>
       <enabled>true</enabled>
     </releases>
