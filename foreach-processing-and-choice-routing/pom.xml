@@ -189,11 +189,11 @@
 		       				 <artifactId>maven-release-plugin</artifactId>
 		       				 <version>2.4.2</version>
 		       				 <configuration>
-		       				 <useReleaseProfile>false</useReleaseProfile>
-        <releaseProfiles>release</releaseProfiles>
-        <autoVersionSubmodules>true</autoVersionSubmodules>
-   
-		          				 <tagNameFormat>v@{project.version}</tagNameFormat> 
+		       				 <useReleaseProfile>true</useReleaseProfile>
+        					 <releaseProfiles>release</releaseProfiles>
+        					 <autoVersionSubmodules>true</autoVersionSubmodules>
+        					 <tagNameFormat>v@{project.version}</tagNameFormat>
+        					 <goals>deploy assembly:single</goals> 
 		        			</configuration>
 		      		    </plugin>
 						<plugin>
