@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mule/!svn/ver/24192/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/message
+END
+LoanBrokerQuoteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mule/!svn/ver/24736/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/message/LoanBrokerQuoteRequest.java
+END
+CustomerQuoteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/mule/!svn/ver/24192/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/message/CustomerQuoteRequest.java
+END
