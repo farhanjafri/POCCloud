@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mule/!svn/ver/24192/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/creditagency
+END
+CreditAgencyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mule/!svn/ver/24192/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/creditagency/CreditAgencyService.java
+END
+DefaultCreditAgency.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mule/!svn/ver/24192/branches/mule-3.3.x/examples/loanbroker-simple/src/main/java/org/mule/example/loanbroker/creditagency/DefaultCreditAgency.java
+END
