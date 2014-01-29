@@ -4,7 +4,7 @@
         <groupId>com.asi</groupId>
         <artifactId>import</artifactId>
         <packaging>mule</packaging>
-        <version>1.0.12-SNAPSHOT</version>
+        <version>1.0.12</version>
  
         <properties>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,7 +22,7 @@
  <connection>scm:git:https://github.com/muqtadir/POCCloud.git</connection>
   <developerConnection>scm:git:git@github.com:muqtadir/POCCloud.git</developerConnection>
   <url>https://github.com/muqtadir/POCCloud/foreach-processing-and-choice-routing</url>
-  <tag>master</tag>
+  <tag>v1.0.12</tag>
  </scm>
         <build>
                 <!-- Use a newer version of the install plugin than what your Maven uses
